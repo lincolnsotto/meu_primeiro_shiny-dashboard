@@ -3,6 +3,8 @@
 library(shiny)
 library(ggplot2)
 
+setwd("~/Documents/GitHub/meu_primeiro_shiny-dashboard/my_app_5")
+
 # Get the data
 
 file <- "https://github.com/rstudio-education/shiny-course/raw/main/movies.RData"
