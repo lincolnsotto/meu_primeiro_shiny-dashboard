@@ -1,0 +1,3 @@
+load("/Users/lincoln/Documents/GitHub/meu_primeiro_shiny-dashboard/my_app_6/mtcars.Rdata")
+load("mtcars.Rdara")
+load("mtcars.Rdata")
